@@ -1,1 +1,1 @@
-# simple-expression-evaluator
+# Simple Expression Evaluator
